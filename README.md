@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Musfira Rehan 👋
 
-<!--
-**musfirarehan/musfirarehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at FAST-NUCES ('29)
 
-Here are some ideas to get you started:
+I'm passionate about technology and continuous learning. I enjoy building projects, solving problems, and exploring different areas of computer science, particularly **Artificial Intelligence & Machine Learning, Web Development, and Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Software Development Best Practices
+
+## 💻 Technical Skills
+
+* **Languages:** C, C++, Python, HTML, CSS
+* **Concepts:** Object-Oriented Programming, GUI Development, Problem Solving
+* **Tools:** Git, GitHub, VS Code
+
+## 🚀 Projects
+
+### 🎮 2048 GUI Game (C)
+
+A graphical implementation of the classic 2048 game developed in C.
+
+### 🍔 Food Ordering System (C++)
+
+A GUI-based food ordering application featuring menu management and order processing.
+
+### 💎 Jewelry Website
+
+A responsive website designed as part of an ICT project.
+
+## 🎯 Current Goals
+
+* Build a strong portfolio and GitHub presence
+* Create meaningful software projects
+* Learn more about AI/ML, Web Development, and Cybersecurity
+* Contribute to open-source projects
+* Prepare for future internships and real-world opportunities
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/
+musfira-rehan-1847383a2
+* GitHub: https://github.com/musfirarehan
+
+> “The expert in anything was once a beginner.”
+
