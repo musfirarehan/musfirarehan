@@ -42,7 +42,7 @@ A responsive website designed as part of an ICT project.
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/
-musfira-rehan-1847383a2
+musfirarehan
 * GitHub: https://github.com/musfirarehan
 
 > “The expert in anything was once a beginner.”
